@@ -37,7 +37,7 @@
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0",
     "bowserify": "10.2.1",
-    "again": "0.0.1"
+    "again": "0.0.2"
   },
   "browserslist": {
     "production": [
