@@ -36,7 +36,7 @@
     "react-dom": "^19.0.0",
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0",
-    "bowserify": "10.2.1",
+    "bowserify": "10.2.0",
     "again": "0.0.1"
   },
   "browserslist": {
